@@ -49,8 +49,8 @@ A typical journal article:
 ]
 
 **Supervision does not guarantee co-authorship**  
-Although, if they helped you develop the original research project and have
-provided significant reviews of your thesis, they should be involved in the 
+Although, if they helped you develop the original research project and
+provided significant reviews of your work, they should be involved in the 
 publication.
 
 --
@@ -407,12 +407,14 @@ The authors may be trustworthy, but people make mistakes (personal experience)
 .list-left[
 
 - data that can be traced back to an individual
-- needs to be masked
+- data that may negatively affect a community
+- can be masked or distorted
 ]
 
 --
 
-Make sure to discuss this with co-authors first. You should be on the same page.
+Make sure to discuss this with co-authors and the head of lab/curator first. 
+You should be on the same page.
 
 ---
 class: center,middle
