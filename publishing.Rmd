@@ -48,7 +48,10 @@ A typical journal article:
 - **middle:** order can be meaningful, but often irrelevant
 ]
 
-**Supervision does not guarantee co-authorship**
+**Supervision does not guarantee co-authorship**  
+Although, if they helped you develop the original research project and have
+provided significant reviews of your thesis, they should be involved in the 
+publication.
 
 --
 
@@ -79,6 +82,8 @@ class: center,middle
 preparation.
 - **Acknowledgements:** People who provided help in a limited form. (remember to thank your reviewers!)
 ]
+
+Most journals will have a policy for authorship
 
 Unfortunately, there is often politics and hierarchy involved...
 
